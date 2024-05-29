@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to HTML",
+        "description": "Learn the basics of HTML, the fundamental language for creating web pages.",
+        "duration": "4 weeks",
+        "instructor": "John Doe",
+        "level": "Beginner",
+        "image": "html-course.jpg",
+        "syllabus": [
+            "Introduction to HTML",
+            "Basic Tags and Elements",
+            "HTML Structure",
+            "Forms and Input"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "CSS for Beginners",
+        "description": "A comprehensive guide to CSS, from basic concepts to advanced styling techniques.",
+        "duration": "6 weeks",
+        "instructor": "Jane Smith",
+        "level": "Beginner",
+        "image": "css-course.jpg",
+        "syllabus": [
+            "Introduction to CSS",
+            "Selectors and Properties",
+            "Box Model",
+            "Flexbox and Grid",
+            "Responsive Design"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "JavaScript Essentials",
+        "description": "Master the basics of JavaScript, the most popular programming language for web development.",
+        "duration": "8 weeks",
+        "instructor": "Alice Johnson",
+        "level": "Intermediate",
+        "image": "javascript-course.jpg",
+        "syllabus": [
+            "Introduction to JavaScript",
+            "Variables and Data Types",
+            "Functions and Scope",
+            "DOM Manipulation",
+            "Events and Event Handling",
+            "Asynchronous JavaScript"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "React Fundamentals",
+        "description": "Learn the fundamentals of React, a powerful library for building user interfaces.",
+        "duration": "10 weeks",
+        "instructor": "Bob Brown",
+        "level": "Intermediate",
+        "image": "react-course.jpg",
+        "syllabus": [
+            "Introduction to React",
+            "JSX and Components",
+            "State and Props",
+            "Lifecycle Methods",
+            "Hooks",
+            "Routing"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Full-Stack Development with MERN",
+        "description": "Become a full-stack developer by mastering the MERN stack: MongoDB, Express, React, and Node.js.",
+        "duration": "12 weeks",
+        "instructor": "Carol White",
+        "level": "Advanced",
+        "image": "mern-course.jpg",
+        "syllabus": [
+            "Introduction to the MERN Stack",
+            "Setting Up the Development Environment",
+            "Building RESTful APIs with Node and Express",
+            "Managing Data with MongoDB",
+            "Frontend Development with React",
+            "Integration and Deployment"
+        ]
+    }
+]
