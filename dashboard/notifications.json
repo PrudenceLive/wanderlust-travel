@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "New Booking",
+    "message": "You have a new booking request for a tour in Bali."
+  },
+  {
+    "id": 2,
+    "title": "Reminder",
+    "message": "Don't forget to complete your travel insurance application."
+  },
+  {
+    "id": 3,
+    "title": "Special Offer",
+    "message": "Limited-time offer: Get 20% off on all bookings made this weekend!"
+  }
+]
