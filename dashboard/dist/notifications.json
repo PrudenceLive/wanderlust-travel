@@ -1,0 +1,25 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "New Booking Received",
+      "message": "You have received a new booking for a tour to Thailand. Check it out!",
+      "timestamp": "2024-05-30T08:00:00Z",
+      "read": false
+    },
+    {
+      "id": 2,
+      "title": "Payment Confirmation",
+      "message": "Your payment for the Rome tour has been confirmed. Enjoy your trip!",
+      "timestamp": "2024-05-29T15:30:00Z",
+      "read": true
+    },
+    {
+      "id": 3,
+      "title": "Reminder: Upcoming Tour",
+      "message": "Don't forget, your tour to Dubai is scheduled for tomorrow. Have a great time!",
+      "timestamp": "2024-05-31T10:00:00Z",
+      "read": false
+    }
+  ]
+}
